@@ -1,4 +1,5 @@
 # Amigo-bot-plugin-keeper
+基于 [Amigo-bot](https://github.com/mosqu1t0/Amigo-bot) 的插件
 ## 简介
 写了一个简单的管理 bot 的插件来自娱自乐。
 
